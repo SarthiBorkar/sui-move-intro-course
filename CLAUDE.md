@@ -1,0 +1,2 @@
+- it working on docker
+- i am using testnet
